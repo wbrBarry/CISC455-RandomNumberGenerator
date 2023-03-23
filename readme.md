@@ -18,11 +18,11 @@ you can edit the test you want by change the *test* list in function *diehard*.
 Currently, the test in used is [0,1,2,3,8,9,10,13,15], to keep consistency with CA paper [Tomassini, M., Sipper, M., & Perrenoud, M. (2000). On the generation of high-quality random numbers by two-dimensional cellular automata. IEEE Transactions on computers, 49(10), 1146-1151.]
 
 Installed dieharder tests:
- Test Number                         Test Name                Test Reliability
-===============================================================================
-  -d 0                            Diehard Birthdays Test              Good
-  -d 1                               Diehard OPERM5 Test              Good
-  -d 2                    Diehard 32x32 Binary Rank Test              Good
+-  Test Number                         Test Name                Test Reliability
+- ===============================================================================
+-   -d 0                            Diehard Birthdays Test              Good
+-   -d 1                               Diehard OPERM5 Test              Good
+-   -d 2                    Diehard 32x32 Binary Rank Test              Good
   -d 3                      Diehard 6x8 Binary Rank Test              Good
   -d 4                            Diehard Bitstream Test              Good
   -d 5                                      Diehard OPSO           Suspect
