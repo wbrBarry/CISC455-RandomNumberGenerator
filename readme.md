@@ -7,13 +7,13 @@
 
 ### how to run diehard_test.py
 
-*Step 1. install Dieharder package*
-Method 1: You can install dieharder test suite directly from Linux Package Managesment. (Ubuntu) <br/>
+#### *Step 1. install Dieharder package*
+##### Method 1: You can install dieharder test suite directly from Linux Package Managesment. (Ubuntu) <br/>
 $ sudo apt-get install dieharder <br/>
 
-Method 2: Or you can clone repository["https://github.com/GINARTeam/Diehard-statistical-test"] and build the Diehard Test by yourself using their C source code (using Makefile) (* This method doesn't work on my laptop) <br/>
+##### Method 2: Or you can clone repository["https://github.com/GINARTeam/Diehard-statistical-test"] and build the Diehard Test by yourself using their C source code (using Makefile) (* This method doesn't work on my laptop) <br/>
 
-*Step 2. Run python file*
+#### *Step 2. Run python file*
 you can edit the test you want by change the *test* list in function *diehard*. <br/>
 Currently, the test in used is [0,1,2,3,8,9,10,13,15], to keep consistency with CA paper [Tomassini, M., Sipper, M., & Perrenoud, M. (2000). On the generation of high-quality random numbers by two-dimensional cellular automata. IEEE Transactions on computers, 49(10), 1146-1151.] <br/>
 
