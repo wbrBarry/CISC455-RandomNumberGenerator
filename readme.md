@@ -54,4 +54,19 @@ Installed dieharder tests:<br/>
   
   
   # Reference: 
-  
+CA1 <br/>
+https://sci-hub.se/10.1109/12.888056<br/>
+Tomassini, M., Sipper, M., & Perrenoud, M. (2000). On the generation of high-quality random numbers by two-dimensional cellular automata. IEEE Transactions on computers, 49(10), 1146-1151. <br/>
+
+CA2<br/>
+https://sci-hub.se/10.1109/melcon.2006.1653219<br/>
+Szaban, M., Seredynski, F., & Bouvry, P. (2006, May). Evolving collective behavior of cellular automata for cryptography. In MELECON 2006-2006 IEEE Mediterranean Electrotechnical Conference (pp. 799-802). IEEE.<br/>
+
+Fitness:<br/>
+Dieharder github<br/>
+https://github.com/GINARTeam/Diehard-statistical-test<br/>
+
+NIST test github<br/>
+https://gist.github.com/StuartGordonReid<br/>
+
+
