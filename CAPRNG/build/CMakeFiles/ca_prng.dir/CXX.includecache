@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/CAPRNG/main.cpp
+iostream
+-
+sstream
+-
+vector
+-
+makeCA.h
+/home/CAPRNG/makeCA.h
+
+/home/CAPRNG/makeCA.h
+bitset
+-
+chrono
+-
+climits
+-
+cmath
+-
+fstream
+-
+iostream
+-
+string
+-
+vector
+-
+
