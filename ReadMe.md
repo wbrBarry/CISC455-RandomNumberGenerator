@@ -26,6 +26,7 @@ In this work, we use an evolutionary algorithm to find the best rule set for a r
 |   |-- obj                               *obj files for .c in src
 |   |-- src                               *m
 |   `-- templates
+|-- utilites                              *Exploratory Work
 |-- readme.md
 `-- run_EA.ipynb                          *run this one evo algo
 ```
