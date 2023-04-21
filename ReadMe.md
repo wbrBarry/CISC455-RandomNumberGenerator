@@ -24,7 +24,7 @@ In this work, we use an evolutionary algorithm to find the best rule set for a r
 |   |-- include                           *header files
 |   |-- makefile
 |   |-- obj                               *obj files for .c in src
-|   |-- src                               *m
+|   |-- src                               *main body of the suite
 |   `-- templates
 |-- utilites                              *Exploratory Work
 |-- readme.md
