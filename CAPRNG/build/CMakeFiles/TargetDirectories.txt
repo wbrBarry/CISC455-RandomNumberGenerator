@@ -1,3 +1,0 @@
-/home/CAPRNG/build/CMakeFiles/rebuild_cache.dir
-/home/CAPRNG/build/CMakeFiles/edit_cache.dir
-/home/CAPRNG/build/CMakeFiles/ca_prng.dir
