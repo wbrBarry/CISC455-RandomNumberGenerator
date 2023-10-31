@@ -8,6 +8,8 @@
 # Introduction
 In this work, we use an evolutionary algorithm to find the best rule set for a random number generator based on cellular automata. We evaluate the fitness of the generator's performance using the NIST statistical test suite, which includes a battery of tests for randomness. Our approach produces better generation results compared to prior works that use entropy as a fitness function. Our study demonstrates the effectiveness of using cellular automata and evolutionary algorithms in the design of high-quality random number generators.
 
+See RandomNumber_report.pdf for our final report. 
+
 # Directory structure
 ```
 .
